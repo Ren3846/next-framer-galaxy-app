@@ -6,9 +6,7 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": " gh-pages -d build",
-    "predeploy": "npm run build"
+    "lint": "next lint"
   },
   "dependencies": {
     "eslint-config-next": "13.0.3",
