@@ -22,12 +22,8 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Galaxy</span> refers to a vast system of stars, planets, interstellar gas, dust, and dark matter bound together by gravity. {' '}
+        <span className="font-extrabold text-white">Galaxy</span> refers to a vast system of stars, planets, interstellar gas, dust, and dark matter bound together by gravity. It is the fundamental structure of the universe on a large scale. Galaxies come in various shapes, sizes, and compositions, and they are the building blocks{' '}
         <span className="font-extrabold text-white"> of the cosmos. </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">Galaxy</span> It is the fundamental structure of the universe on a large scale. Galaxies come in various shapes, sizes, and compositions, and they are the building blocks  Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the Galaxy by scrolling down
       </motion.p>
 
       <motion.img
