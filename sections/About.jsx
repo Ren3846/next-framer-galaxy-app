@@ -22,17 +22,10 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Galaxy</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this Galaxy
-        world, because this is really the{' '}
-        <span className="font-extrabold text-white">
-          madness of the Galaxy
-        </span>{' '}
+        <span className="font-extrabold text-white">Galaxy</span> refers to a vast system of stars, planets, interstellar gas, dust, and dark matter bound together by gravity. {' '}
+        <span className="font-extrabold text-white"> of the cosmos. </span>{' '}
         of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the Galaxy world you want, turn your dreams into
-        reality. Let's{' '}
+        <span className="font-extrabold text-white">Galaxy</span> It is the fundamental structure of the universe on a large scale. Galaxies come in various shapes, sizes, and compositions, and they are the building blocks  Let's{' '}
         <span className="font-extrabold text-white">explore</span> the madness
         of the Galaxy by scrolling down
       </motion.p>
